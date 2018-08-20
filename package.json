@@ -1,0 +1,31 @@
+{
+  "name": "env-or-throw",
+  "version": "0.0.1-alpha1",
+  "description": "Get one or multiple environment variable or throw an error if undefined.",
+  "main": "lib/env-or-throw.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9fv/env-or-throw.git"
+  },
+  "keywords": [
+    "environment",
+    "variable",
+    "throw",
+    "error",
+    "exception",
+    "9fv",
+    "9fv-io"
+  ],
+  "author": "SAS 9 Février <contact@9fevrier.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/9fv/env-or-throw/issues"
+  },
+  "homepage": "https://github.com/9fv/env-or-throw#readme"
+}
